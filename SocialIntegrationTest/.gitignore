@@ -1,0 +1,11 @@
+gen
+out
+tmp
+.idea
+*.iml
+*.jpr
+local.properties
+bin
+build
+.classpath
+.project
